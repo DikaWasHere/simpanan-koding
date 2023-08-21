@@ -1,0 +1,43 @@
+/* CSS untuk body */
+body {
+  background-color: #f2f2f2; /* Warna latar belakang body */
+}
+
+/* CSS untuk section Home */
+#home {
+  background-image: url("gambar/background.jpg"); /* Gambar latar belakang Home */
+  background-size: cover;
+  background-position: center;
+  padding: 100px 0;
+  text-align: center;
+  color: #fff;
+}
+
+/* CSS untuk section Benner */
+#benner {
+  background-image: url("b1.png"); /* Gambar latar belakang Benner */
+  background-size: cover;
+  background-position: center;
+  padding: 100px 0;
+  text-align: center;
+  color: #fff;
+}
+
+/* CSS untuk merapihkan footer */
+footer {
+  background-color: #333;
+  padding: 20px;
+  text-align: center;
+  color: #fff;
+}
+
+/* CSS untuk merapihkan links pada footer */
+footer .links a {
+  color: #fff;
+  margin: 0 10px;
+}
+
+/* CSS untuk merapihkan credit pada footer */
+footer .credit {
+  margin-top: 20px;
+}

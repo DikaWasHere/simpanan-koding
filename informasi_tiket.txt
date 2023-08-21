@@ -1,0 +1,9 @@
+Title: Spider-Man: Far From Home
+Harga Tiket: Rp 30000
+Diskon: 30%
+Harga Setelah Diskon: Rp 84000
+Hari: Selasa
+Tanggal: 2 Juli 2023
+Jam Tayang: 17:30
+Jumlah Tiket: 4
+------------------------------------
